@@ -1,0 +1,17 @@
+F:\7TH SEMESTER\EAD\form_assignment\bin\Debug\net6.0-windows\form_assignment.exe
+F:\7TH SEMESTER\EAD\form_assignment\bin\Debug\net6.0-windows\form_assignment.deps.json
+F:\7TH SEMESTER\EAD\form_assignment\bin\Debug\net6.0-windows\form_assignment.runtimeconfig.json
+F:\7TH SEMESTER\EAD\form_assignment\bin\Debug\net6.0-windows\form_assignment.dll
+F:\7TH SEMESTER\EAD\form_assignment\bin\Debug\net6.0-windows\form_assignment.pdb
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.Form1.resources
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.csproj.GenerateResource.cache
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.AssemblyInfoInputs.cache
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.AssemblyInfo.cs
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.csproj.CoreCompileInputs.cache
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.dll
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\refint\form_assignment.dll
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.pdb
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.genruntimeconfig.cache
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\ref\form_assignment.dll
+F:\7TH SEMESTER\EAD\form_assignment\obj\Debug\net6.0-windows\form_assignment.Properties.Resources.resources
